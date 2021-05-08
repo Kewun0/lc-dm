@@ -2,5 +2,6 @@
 Liberty Unleashed Deathmatch Server
 
 # Features
-• SQLite Account System
-• Easy-To-Read code, designed for beginners
+
+- SQLite Account System
+- EasyToRead code, designed for beginners
